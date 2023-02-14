@@ -1,1 +1,1 @@
-he absolute path name of the current working directory
+display current directory in along form
